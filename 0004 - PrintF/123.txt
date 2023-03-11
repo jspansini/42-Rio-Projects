@@ -1,0 +1,15 @@
+printf é uma função de c que serve para imprimir o conteudo na tela.
+
+
+makefile
+*h
+
+a letra que vem depois da % é um indicador de conversor, indicador de diretriz de impressão de dados
+
+va_list ptr head da lista
+va_start ver como ela 
+
+ver diferença de indicativo i e indicativo 
+d para impressao de inteiros
+
+va_arg
